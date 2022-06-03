@@ -1,4 +1,4 @@
-# Marketdata analysis using K-means Clustering
+# Market data Analysis using K-means Clustering
 > An Unsupervised machine learning algorithm to create a model with Python
 
 ## What it is all about? 
