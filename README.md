@@ -26,6 +26,7 @@
 - Matplotlib
 - Sklearn
 
+![image](https://github.com/vilasrhegde/Marketdata/assets/85540091/3fcca89f-9362-41e7-950b-562b42b3fd74)
 
 ## The Process
 
